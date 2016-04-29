@@ -1,0 +1,28 @@
+name: empathic fatherhood
+favicon: null
+layout_spectrum: 0.3400690343696624
+typography_spectrum: 0.3629080706741661
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.17659633141011
+  lightness: 0.01693511800840497
+  saturation: 0.1522010676562786
+  rhythmicContrast: 0.011316648917272687
+purpose: []
